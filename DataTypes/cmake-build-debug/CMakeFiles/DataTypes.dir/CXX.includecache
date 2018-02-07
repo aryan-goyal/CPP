@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/aryan/Desktop/Workspace/DataTypes/DataTypes.cpp
+iostream
+-
+stdlib.h
+-
+limits.h
+-
+float.h
+-
+

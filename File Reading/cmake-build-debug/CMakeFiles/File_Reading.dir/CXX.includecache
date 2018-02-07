@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/aryan/Desktop/Workspace/File Reading/FileReading.cpp
+stdlib.h
+-
+fstream
+-
+limits.h
+-
+cmath
+-
+iostream
+-
+

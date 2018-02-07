@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2017.2.2\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\RunningStats.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\RunningStats.dir/objects.a @CMakeFiles\RunningStats.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\RunningStats.dir/objects.a -Wl,--no-whole-archive  -o RunningStats.exe -Wl,--out-implib,libRunningStats.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RunningStats.dir\linklibs.rsp

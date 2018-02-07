@@ -1,0 +1,3 @@
+C:/Users/aryan/Desktop/Workspace/Bitwise/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aryan/Desktop/Workspace/Bitwise/cmake-build-debug/CMakeFiles/Bitwise.dir
+C:/Users/aryan/Desktop/Workspace/Bitwise/cmake-build-debug/CMakeFiles/rebuild_cache.dir

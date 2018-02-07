@@ -1,0 +1,3 @@
+C:/Users/aryan/Desktop/Workspace/HelloWorld/cmake-build-debug/CMakeFiles/Workspace.dir
+C:/Users/aryan/Desktop/Workspace/HelloWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aryan/Desktop/Workspace/HelloWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir

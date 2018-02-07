@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/aryan/Desktop/Workspace/Bisection Root Finding/Bisection.cpp
+stdlib.h
+-
+limits
+-
+iostream
+-
+
