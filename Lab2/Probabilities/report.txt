@@ -1,0 +1,33 @@
+Aryan Goyal
+
+Report
+Question 1:
+Observations: For the smaller trial, sometimes a number is simply not rolled and the distribution can vary about 3 rolls per number.
+However, for as the number of rolls increases, ratio of rolls evens out as there is approximately 1/6 of a chance of rolling each number.
+
+Question 2:
+Observations:
+There is an equal split between the low numbers and the high numbers around 7-8% of the time. This was largely surprising to me because
+it would seem that there would be a larger number of times that there is an equal split. However, this is essentially equivalent to flipping
+a coin which has a 50/50 chance of landing heads or tails and seeing how many of the 100 trials are equal. This means its a 1/2 chance of rolling
+a high or low. However, there is a 1/6 of rolling a specific number. This means the total percentage is around ~0.083 percent.
+
+Question 3:
+Observations: I can observe a normal distribution for the range of 2 to 12. This due to the fact that there is only the following ways to roll the numbers.
+1 way to roll 2, 12
+2 ways to roll 3, 11
+3 ways to roll 4, 10
+4 ways to roll 5, 9
+5 ways to roll 6, 8
+6 ways to roll 7
+
+Since there is (1/6)(1/6) = 1/36 chance of rolling a specific number, the number of ways/36 gives you the probability distribution.
+
+Question 4:
+Observations: Based on the results that I am getting, I would get that 19 would be the ideal threshold for the player. This is because based on the probability
+there is a 0.49 percent chance of busting. Since this is less than 50% it is less likely that you will bust.
+
+Question 5: The bet percentage is around ~55% which is the result of card counting. Card counting is the result of the threshold being set to 19 and for the
+player and the player betting based of the number of high and low cards seen. According to the method, you are more likely to know that you are going win and
+you know you are going to win or you are going to lose and you know that you are going to lose. This means you can wager less of a monetary amount so that you can
+maximize your earnings. 
